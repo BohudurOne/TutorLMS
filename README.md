@@ -31,7 +31,7 @@ Download plugin by clicking [Bohudur.zip](https://github.com/BohudurOne/TutorLMS
 ## Configuration
 
 1. **Access Settings**  
-   Go to `Downloads` > `Settings` > `Payment Gateways` > `Bohudur` to configure the plugin settings.
+   Go to `Tutor LMS` > `Settings` > `Payment Methods` > `Bohudur Payments` to configure the plugin settings.
 
 2. **Configure Bohudur Gateway**  
    - **Display Name** – The name that will be shown on the checkout page  
